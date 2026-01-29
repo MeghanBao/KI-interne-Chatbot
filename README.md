@@ -1,4 +1,4 @@
-# AI Assistant für Baubranche 🏗️🤖
+# KI Assistant für Baubranche 🏗️🤖
 
 Eine intelligente, lokale KI-Lösung, die speziell für die Anforderungen der Baubranche entwickelt wurde. Dieses System kombiniert die Leistungsfähigkeit von GPT-4o mit firmeneigenem Wissen durch RAG (Retrieval-Augmented Generation).
 
