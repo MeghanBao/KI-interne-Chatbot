@@ -68,7 +68,3 @@ Wenn Sie die KI auf einem zentralen Firmen-Server installieren möchten, ist Doc
 > Der Quellcode dieses Projekts ist aufgrund interner Unternehmensrichtlinien nicht öffentlich zugänglich.
 > Dieses Repository enthält lediglich eine detaillierte README, um die Struktur, das Design und die Ergebnisse des Projekts zu dokumentieren.
 > Alle Materialien werden ausschließlich zu Bildungs- und Portfoliozwecken geteilt.
-
----
-
-*Entwickelt für Kranz Engineering - Effizienz am Bau durch KI.*
